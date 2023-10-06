@@ -1,14 +1,13 @@
 body {
 font-family: Arial, Helvetica, sans-serif;
-    background-image: url(https://images.unsplash.com/photo-1604147706283-d7119b5b822c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80);
-    background-repeat:no-repeat;
-    background-size: 100%;
+    background-color: black;
 }
 #intro {
     
 }
 h1 {
     text-align: center;
+    color: #EEE7D8;
 }
 img {
     padding-top: 1.45rem
@@ -19,11 +18,22 @@ span {
 }
 div { 
     padding-left: 1em;
-
+    color: #EEE7D8;
+    
+}
+div p {
+    padding-right: 36rem;
 }
 .container {
     display: flex;
     flex-direction: row;
     width:auto; 
     
+}
+li {
+    color: #EEE7D8;
+    padding-right: 36rem;
+}
+h3, h4 {
+    color: #EEE7D8;
 }

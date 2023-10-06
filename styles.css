@@ -1,6 +1,8 @@
 body {
     font-family: 'Times New Roman', Times, serif;
-    background-image: url(https://images.unsplash.com/photo-1604147706283-d7119b5b822c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80);
+    background-image: url(https://thumbs.dreamstime.com/z/different-spices-herbs-stone-table-top-view-ingredients-cooking-food-background-different-spices-herbs-black-120232209.jpg?w=992);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 h1 {
     font-weight: bold;
@@ -18,16 +20,14 @@ p {
 button {
     font-size: 20px;
     line-height: 5px;
-    color: black;
     height: 35px;
-    background-color: rgb(0, 0, 0);
-    color: white;
+    background-color: white;
     font-weight: bold;
     width: 10rem;
 }
 a {
     text-decoration: none;
-    color: white;
+    color: black;
 }
 .topnav {
     overflow: hidden;
