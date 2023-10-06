@@ -1,21 +1,29 @@
 body {
     font-family: 'Times New Roman', Times, serif;
+    background-image: url(https://images.unsplash.com/photo-1604147706283-d7119b5b822c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=387&q=80);
 }
 h1 {
     font-weight: bold;
-    background-color: blue;
+    background-color: aliceblue;
     text-align: center;
+}
+ul {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+p {
+    flex-basis: 33.33333%;
 }
 button {
     font-size: 20px;
     line-height: 5px;
     color: black;
     height: 35px;
-    width: 175px;
     background-color: rgb(0, 0, 0);
     color: white;
     font-weight: bold;
-        
+    width: 10rem;
 }
 a {
     text-decoration: none;
